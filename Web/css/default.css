@@ -1,0 +1,244 @@
+html {
+	color: black;
+	height: 100%;
+	/*min-height: 100%;*/
+}
+
+body {
+	font: 26px "MuseoSans-500", "Open Sans", "Lucida Grande", Arial, sans-serif;
+	margin: 0 auto;
+	height: 100%;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+li {
+	list-style: none;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #637FDB;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	border: none;
+}
+
+textarea, input {
+	outline: none;
+}
+
+#content {
+	background-color: #819CB4;
+	height: 100%;
+	text-shadow: 0 1px 0 #5C5C5C;
+}
+
+#content .leftContent {
+	height: 100%;
+	float: left;
+	width: 45%;
+	margin: 0;
+	overflow: hidden;
+	background-color: #272625;
+	border-right: 1px solid #ADADAB;
+	box-shadow: inset -1px 0px 1px #504D4B, 1px 1px 1px #A5A5A5;
+	-moz-box-shadow: inset -1px 0px 1px #504D4B, 1px 1px 1px #A5A5A5;
+	-webkit-box-shadow: inset -1px 0px 1px #504D4B, 1px 1px 1px #A5A5A5;
+	background-image: -webkit-linear-gradient((top, #272625, #383736 50%, #3F3F3F);
+	background-image: -moz-linear-gradient((top, #272625, #383736 50%, #3F3F3F);
+	background-image: -o-linear-gradient((top, #272625, #383736 50%, #3F3F3F);
+	background-image: linear-gradient((top, #272625, #383736 50%, #3F3F3F);
+}
+
+#content .leftContentInnerWrapper {
+	padding: 8% 16%;
+}
+
+#content .title {
+	margin: 0;
+	font-size: 200%;
+	color: #CFCFCF;
+	font-weight: bold;
+	text-align: right;
+	line-height: 40px;
+}
+
+#content .description {
+	margin: 15px auto;
+	font-size: 90%;
+	color: #838383;
+	text-align: right;
+}
+
+#content .voteBox {
+	color: #CFCFCF;
+	font-size: 85%;
+	margin: 40px 0;
+}
+
+#content .voteBox .like {
+	width: 22%;
+	text-align: center;
+	display: inline-block;
+	vertical-align: baseline;
+	min-height: 150px;
+}
+
+#content .voteBox .like p {
+	margin: 0;
+	font-size: 90%;
+	opacity: 0.8;
+	font-weight: bold;
+}
+
+#content .voteBox .like img {
+	border-radius: 50px;
+	border: 15px solid black;
+	background-color: black;
+	cursor: pointer;
+
+	/* HOVER OFF */
+	transition: all 250ms ease 0ms;
+	-webkit-transition: all 250ms ease 0ms;
+	-moz-transition: all 250ms ease 0ms;
+	-o-transition: all 250ms ease 0ms;
+
+
+}
+
+#content .voteBox .like img:hover, #content .voteBox .like .voted {
+	border-width: 8px;	
+	border-color: #66120F;
+	background-color: #66120F;
+
+	/* HOVER ON */
+	animation: bounce 250ms ease;
+	-webkit-animation: bounce 250ms ease;
+	-moz-animation: bounce 250ms ease;
+	-o-animation: bounce 250ms ease;
+}
+
+@-webkit-keyframes bounce {
+	0% {
+		border-width: 15px;
+		-webkit-transform:scale(1);
+	}
+	50% {
+		border-width: 15px;
+		-webkit-transform:scale(1.25);
+	}
+	100% {
+		border-width: 8px;
+		-webkit-transform:scale(1);
+	}
+}
+
+#content .voteBox .about {
+	width: 75%;
+	display: inline-block;
+	vertical-align: baseline;
+	min-height: 150px;
+}
+
+#content .voteBox .about p {
+	margin: 0;
+	/*min-height: 150px;*/
+}
+
+#content .shareBox {
+	color: #394E6D;
+}
+
+#content .shareBox img {
+	cursor: pointer;
+}
+
+#content .rightContent {
+	float: left;
+	width: 54%;
+	height: 100%;
+	overflow: hidden;
+	text-align: center;
+	position: relative;
+}
+
+#content .rightContent .demoStand {
+	display: block;
+	width: 100%;
+	/*height: 100%;
+	overflow: hidden;*/
+}
+
+#content .rightContent li {
+	display: inline-block;
+	position: absolute;
+	top: -50px;
+	left: 0;
+	opacity: 0;
+	overflow: hidden;
+
+	-webkit-transition: all 1000ms cubic-bezier(0.25, 0, 0.25, 1);
+	-moz-transition: all 1000ms cubic-bezier(0.25, 0, 0.25, 1);
+	-o-transition: all 1000ms cubic-bezier(0.25, 0, 0.25, 1);
+	transition: all 1000ms cubic-bezier(0.25, 0, 0.25, 1);
+
+/*	-webkit-transform: translate3d(1100px, 0, 0);
+	-moz-transform: translate3d(1100px, 0, 0);
+	-ms-transform: translate3d(1100px, 0, 0);
+	-o-transform: translate3d(1100px, 0, 0);
+	transform: translate3d(1100px, 0, 0);*/
+}
+
+#content .rightContent li.selectedDemo {
+	opacity: 1;
+	/*-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	-ms-transform: translate3d(0, 0, 0);
+	-o-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);*/
+
+}
+
+#content .rightContent li img {
+	width: 120%;
+	position: relative;
+	left: -10%;
+}
+
+#content .rightContent li .preview {
+	position: absolute;
+	top: 0;
+}
+
+#content .rightContent li#iphone5 .preview {
+	top: 19.8%;
+	left: 16.5%;
+	width: 66.6%;
+	height: 51%;
+}
+
+#content .rightContent li#galaxy .preview {
+	top: 15.5%;
+	left: 16.6%;
+	width: 66%;
+	height: 66.9%;
+}
+
+#content .rightContent li#iphone4 .preview {
+	top: 21.5%;
+	left: 13.6%;
+	width: 73.1%;
+	height: 51.5%;
+}

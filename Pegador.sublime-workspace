@@ -1,0 +1,1825 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"last",
+				"lastItemPrice"
+			],
+			[
+				"lastIte",
+				"lastItemTitle"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"file",
+				"fileuploader"
+			],
+			[
+				"options",
+				"optionsBox"
+			],
+			[
+				"slid",
+				"slideToggle"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"carte",
+				"carteID"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"images",
+				"imagesList"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"devie",
+				"deviceImage"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"Slide",
+				"slideUp"
+			],
+			[
+				"prepe",
+				"prependTo"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"number",
+				"numberItems"
+			],
+			[
+				"order",
+				"orderItem"
+			],
+			[
+				"table",
+				"tableNumber"
+			],
+			[
+				"sear",
+				"searchLocation"
+			],
+			[
+				"regis",
+				"registrationData"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"wor",
+				"workingTimes"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"field",
+				"fieldValue"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"too",
+				"toolName"
+			],
+			[
+				"TE",
+				"table-layout"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"white",
+				"whiteSmoke"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"page",
+				"pageContentBox"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"tableUn",
+				"tableUnique"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"tableImage",
+				"tableImageSelected"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"tableIma",
+				"tableImageSelected"
+			],
+			[
+				"tableUnique",
+				"tableUniqueID"
+			],
+			[
+				"oder",
+				"orderID"
+			],
+			[
+				"noti",
+				"notificationTypeID"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tab",
+				"tableIDs"
+			],
+			[
+				"data-size",
+				"data-sizex"
+			],
+			[
+				"clone",
+				"clonedTable"
+			],
+			[
+				"backgr",
+				"background-origin"
+			],
+			[
+				"ta",
+				"tableImage"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"edit",
+				"editing"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"map",
+				"mapData"
+			],
+			[
+				"ma",
+				"mapHeight"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"tabl",
+				"tableData"
+			],
+			[
+				"pare",
+				"parents"
+			],
+			[
+				"newT",
+				"newTable"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"grid",
+				"gridster"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"format",
+				"formatOrder"
+			],
+			[
+				"receiver",
+				"receiverTableUniqueID"
+			],
+			[
+				"item",
+				"itemID"
+			],
+			[
+				"compan",
+				"companyID"
+			],
+			[
+				"sess",
+				"sessionKey"
+			],
+			[
+				"tal",
+				"tableID"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"load",
+				"loadCarteLevel"
+			],
+			[
+				"cate",
+				"categoryID"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"cart",
+				"carteID"
+			],
+			[
+				"nav",
+				"navigationController"
+			],
+			[
+				"ima",
+				"imageFrame"
+			],
+			[
+				"kCellSp",
+				"kCellSplitSize"
+			],
+			[
+				"ke",
+				"keyboardFrame"
+			],
+			[
+				"comp",
+				"companyID"
+			],
+			[
+				"UI",
+				"UINavigationController"
+			],
+			[
+				"_res",
+				"_restaurantSelectViewController"
+			],
+			[
+				"da",
+				"datepicker"
+			],
+			[
+				"date",
+				"dateRange"
+			],
+			[
+				"dateRange",
+				"dateRangeSave"
+			],
+			[
+				"dateRan",
+				"dateRangeSave"
+			],
+			[
+				"opt",
+				"optionsBox"
+			],
+			[
+				"men",
+				"menuContent"
+			],
+			[
+				"tool",
+				"toolFavorite"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"s",
+				"stop"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pr",
+				"price"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Web/index.php",
+			"settings":
+			{
+				"buffer_size": 3477,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/js/default.js",
+			"settings":
+			{
+				"buffer_size": 4799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/includes/connection.php",
+			"settings":
+			{
+				"buffer_size": 690,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Web/js/analytics.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/ajax.php",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Web/css/default.css",
+			"settings":
+			{
+				"buffer_size": 4425,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"ob",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if … else"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Project: Close"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fetc",
+				"Fetch: Manage remote files"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tog",
+				"View: Toggle Tabs"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet",
+				"Snippet: SERVER['…']"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 415.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pedro/Sites/Pegador/index.php",
+		"/Users/pedro/Sites/Pegador/css/default.css",
+		"/Users/pedro/Sites/Pegador/js/default.js",
+		"/Users/pedro/Sites/Pegador/ajax.php",
+		"/Users/pedro/Sites/Pegador/includes/loginCheck.php",
+		"/Users/pedro/Sites/Pegador/includes/connection.php",
+		"/Users/pedro/Sites/Pegador/Pegador/Pegador/PickerViewController.m",
+		"/Users/pedro/Sites/Pegador/includes/utils.php",
+		"/Users/pedro/Sites/Pegador/index.html",
+		"/Users/pedro/Sites/PedidoNaRede/js/default.js",
+		"/Users/pedro/Sites/PedidoNaRede/includes/notification.php",
+		"/Users/pedro/Sites/PedidoNaRede/company.php",
+		"/Users/pedro/Sites/PedidoNaRede/applications.php",
+		"/Users/pedro/Sites/PedidoNaRede/ajaxApplication.php",
+		"/Users/pedro/Sites/PedidoNaRede/fileuploader.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/header.php",
+		"/Users/pedro/Sites/PedidoNaRede/js/jquery.fileuploader.js",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/carteWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/js/jquery.fineuploader.js",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/TableMapViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/includes/connection.php",
+		"/Users/pedro/Sites/PedidoNaRede/resize-class.php",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/OrderViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ChatViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ChatItemViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MapViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MenuViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/WaiterViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/developer/index.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/bar.php",
+		"/Users/pedro/Sites/PedidoNaRede/developer/api/index.php",
+		"/Users/pedro/Sites/PedidoNaRede/ajax.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/queries.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/core.php",
+		"/Users/pedro/Sites/PedidoNaRede/carte.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/utils.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/loginCheck.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/mapWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/account.php",
+		"/Users/pedro/Sites/PedidoNaRede/css/default.min.css",
+		"/Users/pedro/Sites/PedidoNaRede/map.php",
+		"/Users/pedro/Sites/PedidoNaRede/PedidoNaRede.sublime-workspace",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/collectionWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/feedbackWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/carteWrap",
+		"/Users/pedro/Sites/PedidoNaRede/css/default.css",
+		"/Users/pedro/Sites/PedidoNaRede/feedback.php",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/Garça.xcodeproj/project.pbxproj",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede.xcodeproj/project.pbxproj",
+		"/Users/pedro/Sites/PedidoNaRede/js/default.min.js",
+		"/Users/pedro/Sites/PedidoNaRede/payment.php",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/StepperView.xib",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckBucketAddView.xib",
+		"/Users/pedro/Sites/PedidoNaRede/ajaxCarte.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/wrapper.php",
+		"/Users/pedro/Sites/PedidoNaRede/banner.php",
+		"/Users/pedro/Sites/PedidoNaRede/ajaxMap.php",
+		"/Users/pedro/Sites/PedidoNaRede/index.php",
+		"/Users/pedro/Sites/PedidoNaRede/help.php",
+		"/Users/pedro/Sites/PedidoNaRede/.htaccess",
+		"/Users/pedro/Sites/PedidoNaRede/data.php",
+		"/Users/pedro/Sites/PedidoNaRede/location.php",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/es.lproj/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ThemeColors.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/HumanViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/en.lproj/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede/includes/bcrypt.php",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/DemoViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/InformationViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ToolViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/pt.lproj/Localizable.strings",
+		"/Users/pedro/Sites/PedidoNaRede/PedidoNaRede.sublime-project",
+		"/Users/pedro/Sites/PedidoNaRede/includes/format.php",
+		"/Users/pedro/Sites/PedidoNaRede/permissions.php",
+		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/User/DashDoc.sublime-settings",
+		"/Users/pedro/Sites/PedidoNaRede/terms.php",
+		"/Users/pedro/Sites/PedidoNaRede/css/print.css",
+		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pedro/Sites/PedidoNaRede/js/jquery.gridster.js",
+		"/Users/pedro/Sites/PedidoNaRede/js/plugins.js",
+		"/Users/pedro/Sites/PedidoNaRede/js/jquery.gridster.min.js",
+		"/Users/pedro/Sites/PedidoNaRede/css/jquery.gridster.min.css",
+		"/Users/pedro/Sites/PedidoNaRede/js/oldCode.js",
+		"/Users/pedro/Sites/PedidoNaRede/includes/api.php",
+		"/Users/pedro/Sites/PedidoNaRede/developer/APIController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/APIController.m",
+		"/Users/pedro/Sites/PedidoNaRede/includes/sequence.php",
+		"/Users/pedro/Sites/PedidoNaRede/logout.php",
+		"/Users/pedro/Sites/PedidoNaRede/register.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/fetch.php",
+		"/Users/pedro/Sites/PedidoNaRede/ajaxRegister.php",
+		"/Users/pedro/Sites/PedidoNaRede/developer/APIController.m",
+		"/Users/pedro/Sites/PedidoNaRede/includes/fetchHTML.php",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckViewCell.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/AppDelegate.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/WrapperViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MenuItemViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/APIController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MenuItemViewController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/AppDelegate.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MKPointExpandedAnnotation.h",
+		"/Users/pedro/Sites/PedidoNaRede/developer/api/error_log",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryViewCell.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/APIController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/APIController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryViewCell.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/OrderItemViewCell.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AppDelegate.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewCell.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/PaperFoldMenuController/PaperFold/UIView+Screenshot.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/UIImage+Color.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/WrapperViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/StepperView.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuItemViewController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuItemViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuViewController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ChatItemViewController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MapViewController.h",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ChatItemViewController.m",
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MapViewController.m"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/pedro/Sites/PedidoNaRede"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"optionView",
+			"label",
+			"_separator",
+			"_optionWrapper",
+			"includes/sequence",
+			"inset -1px 0px 1px #16110D, 1px 1px 1px #FFF;",
+			"2500ms",
+			"1500ms",
+			"150ms",
+			"background-color",
+			"1000ms",
+			"100ms",
+			" ease;",
+			"ease",
+			"bounce",
+			"transition",
+			"cubic-bezier(0, 0.35, .5, 1.3)",
+			"all",
+			"ease",
+			"out",
+			"border",
+			"241C77",
+			"gray",
+			"border 100ms ease-out 0ms, border 100ms ease-in 100ms, border 50ms ease-in 150ms;",
+			"border 100ms ease-out 0ms, border 100ms ease-in 100ms, border 50ms ease-in 150ms; \n	-webkit-transition: border 100ms ease-out 0ms,",
+			"errorBox",
+			"true",
+			"totalRows",
+			"pedidonarede",
+			"img",
+			"#content ",
+			"like",
+			"500ms",
+			"Facebook",
+			"B8B5B5",
+			"inset 0px 0px 1px 1px #DFDFDF",
+			"top, #272625, #222 90%, #222",
+			"whiteSmoke",
+			",white",
+			"white",
+			"whiteSmoke",
+			".",
+			"green",
+			"red",
+			"signIn",
+			"empresa",
+			"titdle",
+			"title",
+			"<li>",
+			"<br />",
+			"<br>",
+			"waitingUpload",
+			"missing",
+			"switch",
+			"descricao",
+			"insertID",
+			"actio",
+			"onCom",
+			"name",
+			"undefined",
+			"$(\".qq-upload-list\").css(\"display\", \"none\");",
+			"$uploadDirectory . $filename . '.' . $ext",
+			"all",
+			"qq-up",
+			"File",
+			"Escolher uma imagem",
+			"action",
+			"actio",
+			"element",
+			"file-",
+			"toolBoxOptions",
+			"Calendar",
+			"end",
+			"toolBoxOptionsShare",
+			"Compartilhar",
+			"toolBoxOptionsShare",
+			"Calendar",
+			"Edit",
+			"Compartilhar",
+			"true",
+			", ui",
+			"ui.",
+			"ui",
+			"200",
+			"repeat",
+			"file-",
+			"add($(this).siblings())",
+			"file-",
+			"lable",
+			"li",
+			"child",
+			"$child",
+			"childIDs",
+			"childs",
+			"cartes",
+			"$(\".toolBox .toolDone\").trigger(\"click\");",
+			"scro",
+			"strtotime(mysql_result($result, 0, \"date\"))",
+			"\n- (void)apiController:(APIController *)apiController didLoadDictionaryFromServer:(NSDictionary *)dictionary {",
+			"[method isEqual",
+			"[method",
+			"- (void)didLoadDictionaryFromServer:(NSDictionary *)dictionary withNamespace:(NSString *)namespace method:(NSString *)method andUserInfo:(NSDictionary *)userInfo {",
+			"msql_result",
+			", 0",
+			"receiverCompanyID",
+			"carteShareCarte",
+			"carteIDs",
+			"childIDs",
+			"carteIDs",
+			"black",
+			"parents",
+			"carteShareList",
+			"toolBoxButton",
+			"childIDs",
+			"removeSomething",
+			"$i",
+			"int(11)",
+			"parentID",
+			"checkChildPermission",
+			"checkPermission",
+			" AND `companyID`=$core->companyID",
+			"AND `carte`.`companyID`=$companyID",
+			"`companyID`",
+			"inset 0 1px 0 white, 0 1px 5px #C9C9C9",
+			"inset 0 1px 0 white, 0 1px 5px #C9C9C9;",
+			"title",
+			"2px white",
+			"inset 0 1px 0 white, 0 1px 5px #C9C9C9;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[apiController.method isEqual",
+			"- (void)apiController:(APIController *)apiController didLoadDictionaryFromServer:(NSDictionary *)dictionary {",
+			"toolBoxButton submitButton",
+			"checkPermission",
+			"32-Arrow-Left",
+			"32-Looking-Glass",
+			"32-Calendar-today",
+			"32-Check",
+			"32-Favorite",
+			"32-Unfavorite",
+			"32-Cross",
+			"32-Pencil-_-Edit",
+			"32-Plus",
+			"32-Settings",
+			"title=\"Editar\"",
+			"getAllActiveTableUniqueIDForMapQueryText",
+			"resourceForQuery",
+			"printInformation",
+			"informationCountForEnterpriseID",
+			"informationForEnterpriseID",
+			"informationForEnterpriseIDForUniqueID",
+			"informationForTable",
+			"<?php if (!$core->logado) { ?>\n$&\n<?php } ?>",
+			"$&$&",
+			"$&",
+			"$?",
+			"\\",
+			"(\\1)",
+			"\\1",
+			"(/1)",
+			"?>",
+			"/1",
+			"resourceForQuery",
+			"getCompanyID",
+			"getTableUniqueID",
+			"resourceForQuery",
+			"#pragma mark - Split View Controller Delegate\n\n- (void)splitViewController:(UISplitViewController *)splitController willHideViewController:(UIViewController *)viewController withBarButtonItem:(UIBarButtonItem *)barButtonItem forPopoverController:(UIPopoverController *)popoverController\n{\n    barButtonItem.title = self.title;\n    NSMutableArray *barButtons = [NSMutableArray arrayWithArray:self.navigationItem.leftBarButtonItems];\n    [barButtons insertObject:barButtonItem atIndex:0];\n    [self.navigationItem setLeftBarButtonItems:barButtons animated:YES];\n}\n\n- (void)splitViewController:(UISplitViewController *)splitController willShowViewController:(UIViewController *)viewController invalidatingBarButtonItem:(UIBarButtonItem *)barButtonItem\n{\n    // Called when the view is shown again in the split view, invalidating the button and popover controller.\n    [self.navigationItem setLeftBarButtonItem:nil animated:YES];\n}\n",
+			"- (void)didLoadDictionaryFromServer:(NSDictionary *)dictionary withNamespace:(NSString *)namespace method:(NSString *)method andUserInfo:(NSDictionary *)userInfo",
+			"- (void)didLoadDictionaryFromServer:(NSDictionary *)dictionary withNamespace:(NSString *)namespace method:(NSString *)method andUserInfo:(NSDictionary *)dictionary",
+			"- (void)didLoadDictionaryFromServer:(NSDictionary *)dictionary withNamespace:(NSString *)namespace method:(NSString *)method andUserInfo:(NSDictionary *)dictionary {",
+			"companyID",
+			"Trilha 2013",
+			"#pragma mark - APIController Delegate",
+			"APIControllerDelegate",
+			"#pragma mark - Table View Data Source",
+			"name=\"agreement\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Web/index.php",
+					"settings":
+					{
+						"buffer_size": 3477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 181.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Web/js/default.js",
+					"settings":
+					{
+						"buffer_size": 4799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1830.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Web/includes/connection.php",
+					"settings":
+					{
+						"buffer_size": 690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Web/js/analytics.js",
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Web/ajax.php",
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "Web/css/default.css",
+					"settings":
+					{
+						"buffer_size": 4425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1488,
+								1488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 921.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 61.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.65063001902,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"aja",
+				"Web/ajax.php"
+			],
+			[
+				"aj",
+				"Web/ajax.php"
+			],
+			[
+				"ana",
+				"Web/js/analytics.js"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"conn",
+				"Web/includes/connection.php"
+			],
+			[
+				"def",
+				"Web/js/default.js"
+			],
+			[
+				"defa",
+				"Web/css/default.css"
+			],
+			[
+				"pick",
+				"Pegador/Pegador/PickerViewController.m"
+			],
+			[
+				"co",
+				"includes/connection.php"
+			],
+			[
+				"uti",
+				"includes/utils.php"
+			],
+			[
+				"log",
+				"includes/loginCheck.php"
+			],
+			[
+				"ajax",
+				"ajaxCarte.php"
+			],
+			[
+				"no",
+				"includes/notification.php"
+			],
+			[
+				"he",
+				"includes/header.php"
+			],
+			[
+				"com",
+				"company.php"
+			],
+			[
+				"file",
+				"js/jquery.fileuploader.js"
+			],
+			[
+				"carte",
+				"includes/wrap/carteWrap.php"
+			],
+			[
+				"fileup",
+				"fileuploader.php"
+			],
+			[
+				"fine",
+				"js/jquery.fineuploader.js"
+			],
+			[
+				"header",
+				"includes/header.php"
+			],
+			[
+				"ca",
+				"carte.php"
+			],
+			[
+				"logi",
+				"includes/loginCheck.php"
+			],
+			[
+				"res",
+				"resize-class.php"
+			],
+			[
+				"wra",
+				"includes/wrap/carteWrap.php"
+			],
+			[
+				"app",
+				"applications.php"
+			],
+			[
+				"lo",
+				"includes/loginCheck.php"
+			],
+			[
+				"util",
+				"includes/utils.php"
+			],
+			[
+				"u",
+				"includes/utils.php"
+			],
+			[
+				"ut",
+				"includes/utils.php"
+			],
+			[
+				"core",
+				"includes/core.php"
+			],
+			[
+				"qu",
+				"includes/queries.php"
+			],
+			[
+				"que",
+				"includes/queries.php"
+			],
+			[
+				"utils",
+				"includes/utils.php"
+			],
+			[
+				"map",
+				"includes/wrap/mapWrap.php"
+			],
+			[
+				"ac",
+				"account.php"
+			],
+			[
+				"m",
+				"map.php"
+			],
+			[
+				"con",
+				"includes/connection.php"
+			],
+			[
+				"car",
+				"carte.php"
+			],
+			[
+				"bar",
+				"includes/bar.php"
+			],
+			[
+				"bann",
+				"banner.php"
+			],
+			[
+				"login",
+				"includes/loginCheck.php"
+			],
+			[
+				"queri",
+				"includes/queries.php"
+			],
+			[
+				"qe",
+				"includes/queries.php"
+			],
+			[
+				"noti",
+				"includes/notification.php"
+			],
+			[
+				"ban",
+				"banner.php"
+			],
+			[
+				"index",
+				"developer/api/index.php"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"cone",
+				"includes/connection.php"
+			],
+			[
+				"quer",
+				"includes/queries.php"
+			],
+			[
+				"es",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/es.lproj/Localizable.strings"
+			],
+			[
+				"n",
+				"includes/notification.php"
+			],
+			[
+				"themec",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ThemeColors.m"
+			],
+			[
+				"human",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/HumanViewController.m"
+			],
+			[
+				"en",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/en.lproj/Localizable.strings"
+			],
+			[
+				"data",
+				"data.php"
+			],
+			[
+				"loca",
+				"location.php"
+			],
+			[
+				"bcry",
+				"includes/bcrypt.php"
+			],
+			[
+				"local",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/pt.lproj/Localizable.strings"
+			],
+			[
+				"tool",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ToolViewController.m"
+			],
+			[
+				"demo",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/DemoViewController.m"
+			],
+			[
+				"infr",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/InformationViewController.m"
+			],
+			[
+				"too",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ToolViewController.m"
+			],
+			[
+				"mapv",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MapViewController.m"
+			],
+			[
+				"inform",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/InformationViewController.m"
+			],
+			[
+				"acc",
+				"account.php"
+			],
+			[
+				"per",
+				"permissions.php"
+			],
+			[
+				"hel",
+				"help.php"
+			],
+			[
+				"te",
+				"terms.php"
+			],
+			[
+				"print",
+				"css/print.css"
+			],
+			[
+				"heade",
+				"includes/header.php"
+			],
+			[
+				"devel",
+				"developer/index.php"
+			],
+			[
+				"htac",
+				".htaccess"
+			],
+			[
+				"plug",
+				"js/plugins.js"
+			],
+			[
+				"jquer",
+				"js/jquery.gridster.js"
+			],
+			[
+				"hea",
+				"includes/header.php"
+			],
+			[
+				"old",
+				"js/oldCode.js"
+			],
+			[
+				"a",
+				"ajaxCarte.php"
+			],
+			[
+				"for",
+				"includes/format.php"
+			],
+			[
+				"aax",
+				"ajax.php"
+			],
+			[
+				"grid",
+				"js/jquery.gridster.js"
+			],
+			[
+				"develo",
+				"developer/index.php"
+			],
+			[
+				"apic",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/APIController.m"
+			],
+			[
+				"api",
+				"developer/APIController.h"
+			],
+			[
+				"se",
+				"includes/sequence.php"
+			],
+			[
+				"s",
+				"includes/sequence.php"
+			],
+			[
+				"de",
+				"css/default.css"
+			],
+			[
+				"c",
+				"carte.php"
+			],
+			[
+				"gri",
+				"js/jquery.gridster.js"
+			],
+			[
+				"wrapp",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/WrapperViewController.m"
+			],
+			[
+				"checkv",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckViewCell.m"
+			],
+			[
+				"checkview",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckViewController.m"
+			],
+			[
+				"apicontroller",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/APIController.m"
+			],
+			[
+				"ap",
+				"developer/APIController.m"
+			],
+			[
+				"bcr",
+				"includes/bcrypt.php"
+			],
+			[
+				"menuitem",
+				"44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MenuItemViewController.h"
+			],
+			[
+				"apicon",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/APIController.m"
+			],
+			[
+				"defaul",
+				"js/default.js"
+			],
+			[
+				"orderitem",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/OrderItemViewCell.m"
+			],
+			[
+				"menucategor",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryViewController.m"
+			],
+			[
+				"menuitemv",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuItemViewController.m"
+			],
+			[
+				"stepper",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/StepperView.h"
+			],
+			[
+				"wrapper",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/WrapperViewController.m"
+			],
+			[
+				"checkvi",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewController.m"
+			],
+			[
+				"uiima",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/UIImage+Color.m"
+			],
+			[
+				"uiview",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/PaperFoldMenuController/PaperFold/UIView+Screenshot.m"
+			],
+			[
+				"appde",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AppDelegate.m"
+			],
+			[
+				"resta",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantViewController.m"
+			],
+			[
+				"restaura",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m"
+			],
+			[
+				"menucate",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryViewCell.h"
+			],
+			[
+				"menu",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuViewController.h"
+			],
+			[
+				"chat",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ChatViewController.m"
+			],
+			[
+				"order",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/OrderViewController.m"
+			],
+			[
+				"aler",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AlertView.m"
+			],
+			[
+				"alert",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AlertView.h"
+			],
+			[
+				"chatviewcell",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ChatViewCell.m"
+			],
+			[
+				"tabl",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/TableView.m"
+			],
+			[
+				"menuca",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryItemViewCell.m"
+			],
+			[
+				"menucare",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuCategoryViewController.m"
+			],
+			[
+				"apico",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/APIController.m"
+			],
+			[
+				"menuitemvi",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/MenuItemViewController.m"
+			],
+			[
+				"reserva",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ReservationItemViewCell.m"
+			],
+			[
+				"restaurantwra",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m"
+			],
+			[
+				"reservationwra",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ReservationWrapperViewController.m"
+			],
+			[
+				"cha",
+				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ChatViewController.m"
+			],
+			[
+				"regi",
+				"register.php"
+			],
+			[
+				"cara",
+				"cardapio.php"
+			],
+			[
+				"api/i",
+				"developer/api/index.php"
+			],
+			[
+				".css",
+				"css/default.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}
